@@ -1,0 +1,6 @@
+fastapi
+flask
+tensorflow
+pandas
+sqlalchemy
+
